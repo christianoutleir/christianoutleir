@@ -7,7 +7,7 @@
 ### 🚀 Sobre Mim
 Estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvimento back-end. Atualmente, busco minha primeira oportunidade como estagiário na área de TI para aplicar meus conhecimentos em Java e lógica de programação.
 
-- 🎓 Cursando ADS no **Centro Universitário Facens** (Previsão: Jan/2026).
+- 🎓 Cursando ADS no **Centro Universitário Facens** (Previsão: Jun/2028).
 - 🛠️ Experiência corporativa no **Grupo Automec**, desenvolvendo responsabilidade e atenção aos detalhes.
 - 💡 Apaixonado por tecnologia, acessibilidade e projetos que geram impacto social.
 
