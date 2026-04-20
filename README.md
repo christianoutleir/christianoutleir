@@ -28,12 +28,13 @@ Estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvime
 ---
 
 ### 📫 Vamos nos conectar?
+
 <div align="left">
   <a href="https://linkedin.com/in/christian-cavalcanti" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin-right: 10px;" />
   </a>
-  <a href="mailto:cris.cavalcanti06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:cris.cavalcanti06@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </div>
 
