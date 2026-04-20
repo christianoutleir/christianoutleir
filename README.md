@@ -1,8 +1,6 @@
 # Olá, eu sou o Christian Cavalcanti! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=christianoutleir&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
 
 ---
 
