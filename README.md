@@ -35,7 +35,7 @@ Aplicativo focado em acessibilidade e aprendizado de Libras por meio de lições
 ### 📫 Vamos nos conectar?
 
 <div align="left">
-  <a href="https://linkedin.com/in/christian-cavalcanti" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;<a href="mailto:cris.cavalcanti06@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/christian-cavalcanti-b35250292/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;<a href="mailto:cris.cavalcanti06@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
 </div>
 
 ---
