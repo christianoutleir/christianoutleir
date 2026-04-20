@@ -21,9 +21,15 @@ Estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvime
 
 ---
 
-### 📁 Projeto em Destaque: SINALY
-**App de Libras com Gamificação**
-> Projeto semifinalista no **Empreenda Senac (2025)**, focado em acessibilidade e aprendizado de Libras através de lições interativas e tecnologia.
+### 📁 Projeto em Destaque
+
+#### 🧏‍♂️ [SINALY: App de Libras com Gamificação](LINK_DO_REPOSITORIO_AQUI)
+> 🏆 **Projeto Semifinalista no Empreenda Senac (2025)**
+
+Aplicativo focado em acessibilidade e aprendizado de Libras por meio de lições interativas e tecnologia.
+
+- **O meu papel:** (Ex: Desenvolvimento do Back-end / Regras de negócio)
+- **Tecnologias utilizadas:** Java, Python... (ajuste para as tecnologias reais do projeto)
 
 ---
 
