@@ -15,14 +15,12 @@ Estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvime
 
 ---
 
-🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=java,python,git,github" alt="Minhas Habilidades" />
 </div>
+
 ---
 
 ### 📁 Projeto em Destaque: SINALY
