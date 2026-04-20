@@ -28,8 +28,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvime
 
 Aplicativo focado em acessibilidade e aprendizado de Libras por meio de lições interativas e tecnologia.
 
-- **O meu papel:** (Ex: Desenvolvimento do Back-end / Regras de negócio)
-- **Tecnologias utilizadas:** Java, Python... (ajuste para as tecnologias reais do projeto)
+- **O meu papel: Liderança do desenvolcimento do app
 
 ---
 
